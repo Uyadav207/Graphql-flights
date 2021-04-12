@@ -1,0 +1,14 @@
+{
+  "name": "graphql-flights",
+  "version": "1.0.0",
+  "description": "Flight booking system",
+  "main": "index.js",
+  "repository": "https://github.com/Uyadav207/Graphql-flights.git",
+  "author": "Utkarsh Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}
